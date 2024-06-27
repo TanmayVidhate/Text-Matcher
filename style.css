@@ -60,3 +60,10 @@ button {
     outline: none;
     margin: 5px;
 }
+
+.Result-holder {
+    width: 20%;
+    margin: auto;
+    /* border: 2px solid red; */
+    text-align: center;
+}
