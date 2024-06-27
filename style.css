@@ -16,3 +16,11 @@
     /* border:5px solid red; */
     background-color: #BFF6C3;
 }
+
+.input-boxs-holder {
+    width: 100%;
+    /* border: 1px solid red; */
+    text-align: center;
+    padding: 1vw;
+
+}
