@@ -9,3 +9,10 @@
     font-style: normal;
     
 }
+
+.main {
+    width: 100%;
+    height: 740px;
+    /* border:5px solid red; */
+    background-color: #BFF6C3;
+}
