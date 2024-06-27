@@ -8,9 +8,9 @@ const res = result
 
 function TextMatch() {
     if ((txt1.value) == (txt2.value))
-        res.innerText = "Text Match"
+        res.innerText = "Text Match.👍"
     else
-        res.innerText = "Text Not Match"
+        res.innerText = "Text Not Match.👎"
 }
 
 function Reset() {
